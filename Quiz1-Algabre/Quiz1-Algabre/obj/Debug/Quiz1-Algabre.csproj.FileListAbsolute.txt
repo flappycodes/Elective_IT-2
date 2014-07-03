@@ -1,0 +1,10 @@
+D:\C#\Quizes_c#\Quiz1-Algabre\Quiz1-Algabre\bin\Debug\Quiz1-Algabre.exe.config
+D:\C#\Quizes_c#\Quiz1-Algabre\Quiz1-Algabre\bin\Debug\Quiz1-Algabre.exe
+D:\C#\Quizes_c#\Quiz1-Algabre\Quiz1-Algabre\bin\Debug\Quiz1-Algabre.pdb
+D:\C#\Quizes_c#\Quiz1-Algabre\Quiz1-Algabre\obj\Debug\Quiz1-Algabre.csprojResolveAssemblyReference.cache
+D:\C#\Quizes_c#\Quiz1-Algabre\Quiz1-Algabre\obj\Debug\Quiz1_Algabre.frmMain.resources
+D:\C#\Quizes_c#\Quiz1-Algabre\Quiz1-Algabre\obj\Debug\Quiz1_Algabre.frmPlus.resources
+D:\C#\Quizes_c#\Quiz1-Algabre\Quiz1-Algabre\obj\Debug\Quiz1_Algabre.Properties.Resources.resources
+D:\C#\Quizes_c#\Quiz1-Algabre\Quiz1-Algabre\obj\Debug\Quiz1-Algabre.csproj.GenerateResource.Cache
+D:\C#\Quizes_c#\Quiz1-Algabre\Quiz1-Algabre\obj\Debug\Quiz1-Algabre.exe
+D:\C#\Quizes_c#\Quiz1-Algabre\Quiz1-Algabre\obj\Debug\Quiz1-Algabre.pdb
